@@ -2,7 +2,7 @@ RNAEditor is tool to analyze RNA editing events from RNA-seq data.
 It accepts **Fastq** and **Bam** files as input, handles all the analysis and filter steps for you and outputs comprehensive statistics and **editing Islands**.
 
 
-#### 1.) Reqiurements
+#### 1.) Requirements
 
 Install following tools to **/usr/local/bin/**:
 
@@ -42,27 +42,3 @@ RNAEditor is free to use without login information, provided that the original w
 It is provided “as is” without any reliability whatsoever.
 We have taken extreme care regarding the contents that we provide in RNAEditor, but if you identify a bug, please contact us.
 If you are commercial user, please contact us: uchida@med.uni-frankfurt.de
-
-### 6.) LICENSE
-
-The MIT License
-
-Copyright (c) 2016 David John
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
